@@ -1,5 +1,5 @@
 # How we became accidental accessibility champions, and how you could too!
-Suopporting code examples for our UX Scotland workshop
+Supporting code examples for our UX Scotland workshop
 
 ## CSS
 
