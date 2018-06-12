@@ -4,9 +4,92 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Demo page: Good, valid markup</title>
+	<title>Demo page: Good, valid form markup</title>
 </head>
 <body>
+	<form action="#">
+		<h1>Example Form markup</h1>
 
+		<fieldset>
+			<legend>User information</legend>
+			<div>
+				<label for="form-select">Title</label>
+				<div>
+					<select id="form-select" name="form-select">
+						<option value="First Choice">First Choice</option>
+						<option value="Second Choice">Second Choice</option>
+						<option value="Third Choice">Third Choice</option>
+					</select>
+				</div>
+			</div>
+
+			<div>
+				<label for="form-fullname">Full Name</label>
+				<div>
+					<input id="form-fullname" name="form-fullname" type="text" value="">
+				</div>
+			</div>
+
+			<div>
+				<label for="form-email">Email</label>
+				<div>
+					<input name="form-email" id="form-email" type="email" spellcheck="false" value="" maxlength="255">
+				</div>
+			</div>
+
+			<div>
+				<label for="form-message">Message</label>
+
+				<div>
+					<textarea id="form-message" name="form-message" spellcheck="true" rows="10" cols="100"></textarea>
+				</div>
+			</div>
+		</fieldset>
+
+
+		<fieldset>
+			<legend>Select a Choice</legend>
+
+			<div>
+				<div>
+					<input id="form-radio-first" name="form-radio-group" type="radio" value="First Choice" checked="checked">
+					<label for="form-radio-first">First Choice</label>
+				</div>
+				<div>
+					<input id="form-radio-second" name="form-radio-group" type="radio" value="Second Choice">
+					<label for="form-radio-second">Second Choice</label>
+				</div>
+				<div>
+					<input id="form-radio-third" name="form-radio-group" type="radio" value="Third Choice">
+					<label for="form-radio-third">Third Choice</label>
+				</div>
+			</div>
+		</fieldset>
+
+		<fieldset>
+			<legend>Check All That Apply</legend>
+			<div>
+				<div>
+					<input id="form-check-first" name="form-check-first" type="checkbox" value="First Choice">
+					<label for="form-check-first">First Choice</label>
+				</div>
+				<div>
+					<input id="form-check-second" name="form-check-second" type="checkbox" value="Second Choice">
+					<label for="form-check-second">Second Choice</label>
+				</div>
+				<div>
+					<input id="form-check-third" name="form-check-third" type="checkbox" value="Third Choice">
+					<label for="form-check-third">Third Choice</label>
+				</div>
+			</div>
+		</fieldset>
+
+		<div>
+			<div>
+				<input id="saveForm" name="saveForm" type="submit" value="Submit">
+			</div>
+		</div>
+
+	</form>
 </body>
 </html>
