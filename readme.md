@@ -2,7 +2,11 @@
 Supporting code examples for our UX Scotland workshop
 
 ## CSS &amp; Images
+These pages are designed to show why the right CSS is important
 
+[CSS](https://gbbns.github.io/ux-scotland-2018.github.io/01-css-and-images/01-with-css.html)
+
+[Images](https://gbbns.github.io/ux-scotland-2018.github.io/01-css-and-images/02-images.html)
 
 ## Keyboard navigation
 This page show a navigation which is tabbable and one that isn't
