@@ -1,7 +1,8 @@
 # How we became accidental accessibility champions, and how you could too!
 Supporting code examples for our UX Scotland workshop
 
-## CSS
+## CSS &amp; Images
+
 
 ## Keyboard navigation
 This page show a navigation which is tabbable and one that isn't
@@ -13,10 +14,18 @@ A basic, but well structured form. Code is valid and semantic.
 
 [Good form markup](https://gbbns.github.io/ux-scotland-2018.github.io/03-valid/01-good-markup.html)
 
+## Videos
+
+
 ## Links and resources
 
+### POUR
+* [http://www.oneguidelineaday.com/wcag-20/about-the-four-principles/](http://www.oneguidelineaday.com/wcag-20/about-the-four-principles/)
+* [http://blogaccessibility.com/the-pour-principles-the-starting-point-for-creating-accessible-blogs/](http://blogaccessibility.com/the-pour-principles-the-starting-point-for-creating-accessible-blogs/)
+* [Screen reader testing](https://webaim.org/articles/screenreader_testing/)
+
 ### Barclays Inclusive design
-This site also contain the diverse personas we mentioned
+This site is an amazing resource and contain all of the a11y personas we've mentioned
 
 [https://www.barclayscorporate.com/insight-and-research/managing-your-business/making-your-business-accessible/inclusive-design.html](https://www.barclayscorporate.com/insight-and-research/managing-your-business/making-your-business-accessible/inclusive-design.html)
 
@@ -83,9 +92,7 @@ Free, open source screen reader (Windows only)
 [https://www.nvaccess.org/](https://www.nvaccess.org/)
 
 ## Special thanks
-Hillary and Shaun at Camp Digital for giving us a slot at Camp Digital
-Jacqui and the team at Software Acumen
-Chris Bush and Molly Watt for their ongoing help and advice
+Hillary and Shaun at [Sigma](https://www.wearesigma.com/) for giving us a slot at [Camp Digital](https://www.wearesigma.com/campdigital/2018/); Jacqui and the team at Software Acumen; [Chris Bush](https://twitter.com/suthen/) and [Molly Watt](https://twitter.com/mollywatttalks/) for their ongoing help, advice and inspiration.
 
 ## Contact
 Feel free to get in touch with either Chris or Anya. They can be contacted:
