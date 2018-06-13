@@ -1,6 +1,28 @@
 # How we became accidental accessibility champions, and how you could too!
 Supporting code examples for our UX Scotland workshop
 
+# Table of Contents
+1. [CSS &amp; Images](#css--images)
+2. [Keyboard navigation](#keyboard-navigation)
+3. [Valid form markup](#valid-form-markup)
+4. [Videos](#videos)
+5. [Links and resources](#links-and-resources)
+	1. [POUR](#pour)
+	2. [Barclays Inclusive design](#barclays-inclusive-design)
+	3. [Inclusive design toolkit](#inclusive-design-toolkit)
+	4. [Chrome Lens](#chrome-lens)
+	5. [WebAIM Wave toolbar](#webaim-wave-toolbar)
+	6. [Chrome VOX](#chrome-vox)
+	7. [Stark](#stark)
+	8. [Home office posters](#home-office-posters)
+	9. [Dyslexia simulation site](#dyslexia-simulation-site)
+	10. [Chrome accessibility audit tab](#chrome-accessibility-audit-tab)
+	11. [Site improve accessibility extension](#siteiimprove-accessibility-extension)
+	12. [WCAG guidelines](#wcag-guidelines)
+	13. [NVDA](#nvda)
+6. [Special thanks](#special-thanks)
+7. [Contact](#contact)
+
 ## CSS &amp; Images
 These pages are designed to show why the right CSS is important
 
@@ -19,7 +41,11 @@ A basic, but well structured form. Code is valid and semantic.
 [Good form markup](https://gbbns.github.io/ux-scotland-2018.github.io/03-valid/01-good-markup.html)
 
 ## Videos
-
+* [Web Accessibility Perspectives: Keyboard Compatibility](https://www.youtube.com/watch?v=93UgG72os8M)
+* [How Blind People Use Instagram](https://www.youtube.com/watch?v=P1e7ZCKQfMA)
+* [How Blind People Use YouTube & Twitter on the iPhone](https://www.youtube.com/watch?v=c0nvdiRdehw)
+* [Four principles of accessibility - 'POUR'](https://www.youtube.com/watch?v=hs8sykCaf3E)
+* [Apple – Accessibility – Sady](https://www.youtube.com/watch?v=XB4cjbYywqg)
 
 ## Links and resources
 
@@ -68,7 +94,6 @@ The main GitHub repo containing the posters we printed
 
 ### Chrome accessibility audit tab
 [https://developers.google.com/web/updates/2017/05/devtools-release-notes](https://developers.google.com/web/updates/2017/05/devtools-release-notes)
-
 
 ### Site improve accessibility extension
 Extension to evaluate web pages for accessibility issues
