@@ -159,7 +159,7 @@ Free, open source screen reader (Windows only)
 [Back to top](#table-of-contents)
 
 ## Special thanks
-Hillary and Shaun at [Sigma](https://www.wearesigma.com/) for giving us a slot at [Camp Digital](https://www.wearesigma.com/campdigital/2018/); Jacqui and the team at Software Acumen; [Chris Bush](https://twitter.com/suthen/) and [Molly Watt](https://twitter.com/mollywatttalks/) for their ongoing help, advice and inspiration.
+Hilary and Shaun at [Sigma](https://www.wearesigma.com/) for giving us a slot at [Camp Digital](https://www.wearesigma.com/campdigital/2018/); Jacqui and the team at Software Acumen; [Chris Bush](https://twitter.com/suthen/) and [Molly Watt](https://twitter.com/mollywatttalks/) for their ongoing help, advice and inspiration.
 
 [Back to top](#table-of-contents)
 
